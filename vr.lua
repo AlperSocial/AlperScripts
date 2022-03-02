@@ -11,6 +11,12 @@ end)
         Icon = "rbxthumb://type=Asset&id=5107182114&w=150&h=150"})
     Duration = 16;
     
+	game:GetService("StarterGui"):SetCore("SendNotification", { 
+        Title = "Credits";
+        Text = "VR Script made by ONEReverseCard and Netless by Nullware";
+        Icon = "rbxthumb://type=Asset&id=5107182114&w=150&h=150"})
+    Duration = 16;
+    
 wait(0.5)
 
 --Netless bypass ^^^^
